@@ -31,9 +31,9 @@ export function Footer() {
           <div className="lg:col-span-2">
             <Link href="/" className="flex items-center gap-2 mb-6">
               <div className="w-8 h-8 rounded-full bg-background flex items-center justify-center">
-                <span className="text-foreground font-serif text-sm font-medium">B</span>
+                <span className="text-foreground font-serif text-sm font-medium">K</span>
               </div>
-              <span className="font-serif text-xl font-medium text-background">Biometic</span>
+              <span className="font-serif text-xl font-medium text-background">Kapil</span>
             </Link>
             <p className="text-background/70 leading-relaxed mb-6 max-w-sm">
               Microbiome science for your well-being. Natural and scientifically validated solutions.
@@ -41,7 +41,7 @@ export function Footer() {
             <div className="space-y-3 text-sm text-background/70">
               <div className="flex items-center gap-3">
                 <Mail className="w-4 h-4" />
-                <span>contact@biometic.com</span>
+                <span>contact@kapil.com</span>
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="w-4 h-4" />
@@ -97,7 +97,7 @@ export function Footer() {
 
         {/* Bottom */}
         <div className="border-t border-background/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-          <p className="text-sm text-background/50">© 2025 Biometic. All rights reserved.</p>
+          <p className="text-sm text-background/50">© 2025 Kapil. All rights reserved.</p>
           <div className="flex gap-6 text-sm text-background/50">
             <Link href="#" className="hover:text-background transition-colors">
               Legal notice

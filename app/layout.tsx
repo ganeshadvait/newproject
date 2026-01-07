@@ -15,9 +15,9 @@ const fraunces = Fraunces({
 })
 
 export const metadata: Metadata = {
-  title: "Biometic — Science du Microbiome",
+  title: "Kapil — Science du Microbiome",
   description:
-    "Découvrez une approche scientifique et naturelle pour votre bien-être. Biometic fusionne science rigoureuse et nature vivante.",
+    "Découvrez une approche scientifique et naturelle pour votre bien-être. Kapil fusionne science rigoureuse et nature vivante.",
   generator: "v0.app",
   icons: {
     icon: [

@@ -55,7 +55,7 @@ export function MissionSection() {
               </h2>
               <div className="reveal opacity-0 animation-delay-400 space-y-6 text-background/90 leading-relaxed">
                 <p>
-                  At Biometic, we believe that true well-being comes from the harmony between modern science and
+                  At Kapil, we believe that true well-being comes from the harmony between modern science and
                   ancestral wisdom. Our mission is to make accessible a holistic approach to health, based on the latest
                   discoveries in microbiome research.
                 </p>

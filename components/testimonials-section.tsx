@@ -13,26 +13,26 @@ const testimonials = [
   },
   {
     quote:
-      "Biometic's scientific approach immediately appealed to me. The results are there: better sleep, less stress, more mental clarity.",
+      "kapil's scientific approach immediately appealed to me. The results are there: better sleep, less stress, more mental clarity.",
     author: "Thomas D.",
     role: "User for 1 year",
     avatar: "/placeholder.svg?height=80&width=80",
   },
   {
     quote:
-      "As a doctor, I appreciate the scientific rigor behind each formula. I recommend Biometic to my patients with complete confidence.",
+      "As a doctor, I appreciate the scientific rigor behind each formula. I recommend kapil to my patients with complete confidence.",
     author: "Dr. Sophie M.",
     role: "General practitioner",
     avatar: "/placeholder.svg?height=80&width=80",
   },
   {
-    quote: "A true revolution for my gut health. Biometic probiotics have transformed my daily well-being.",
+    quote: "A true revolution for my gut health. kapil probiotics have transformed my daily well-being.",
     author: "Lucas P.",
     role: "User for 6 months",
     avatar: "/placeholder.svg?height=80&width=80",
   },
   {
-    quote: "Biometic helped me regain restorative sleep. I finally wake up rested and full of energy.",
+    quote: "kapil helped me regain restorative sleep. I finally wake up rested and full of energy.",
     author: "Claire B.",
     role: "User for 10 months",
     avatar: "/placeholder.svg?height=80&width=80",

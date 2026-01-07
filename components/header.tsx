@@ -15,7 +15,7 @@ export function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
             
-            <span className="font-serif text-foreground text-2xl font-normal">Biometic</span>
+            <span className="font-serif text-foreground text-2xl font-normal">kapil</span>
           </Link>
 
           {/* Desktop Navigation */}
